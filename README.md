@@ -1,5 +1,5 @@
 # :computer: RSlagalica :computer:
-> Faculty project for Software Development (Razvoj softvera) course in 2017.
+> Faculty team project for Software Development (Razvoj softvera) course in 2017.
 
 This project is based on Serbian TV Quiz program "Slagalica". It consists of couple of different games, each focusing on various skills (Mathematics, Language skills, Creativity, General knowledge,...)
 
