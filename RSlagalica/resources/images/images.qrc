@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Tux.png</file>
+        <file>background.jpg</file>
+        <file>tux-graduation.png</file>
+        <file>tux-sad.png</file>
+        <file>Kenny-Tux-icon.png</file>
+    </qresource>
+</RCC>

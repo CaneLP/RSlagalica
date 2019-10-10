@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/connectors">
+        <file>connections_1</file>
+        <file>connections_2</file>
+        <file>connections_3</file>
+        <file>connections_4</file>
+        <file>connections_5</file>
+        <file>connections_6</file>
+        <file>connections_7</file>
+        <file>connections_8</file>
+    </qresource>
+</RCC>

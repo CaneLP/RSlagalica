@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/dic">
+        <file>sr_Latn.dic</file>
+        <file>sr_Latn.game.dic</file>
+    </qresource>
+</RCC>
